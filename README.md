@@ -1,6 +1,7 @@
 # gagapay.network.nep5
 Gagapay Network Nep-5 Token
-[Website:](https://gagapay.network)
+
+[Website: https://gagapay.network](https://gagapay.network)
 
 # Testnet smart contract hash
 ScriptHash:0x463b304597fe135c9fe5d3f9ba169246783ac30e
