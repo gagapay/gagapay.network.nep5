@@ -1,10 +1,10 @@
-# gagapay.network.nep5
+# gagapay.network.nep5 (GTA)
 Gagapay Network Nep-5 Token
 
 [Website: https://gagapay.network](https://gagapay.network)
 
 # Testnet smart contract hash
-ScriptHash:0x463b304597fe135c9fe5d3f9ba169246783ac30e
+ScriptHash:0x06f4b1235f6300477d56b9a1f1de5b0172dfe103
 
 # Transaction
 https://neoscan-testnet.io/transaction/aeef0241f82959fa3d055fd5b64b270cdc9f9f95d7e6e70d9960eabf5d66d3fa
@@ -18,7 +18,7 @@ Version: 1.0
 
 Author: Gagapay Limited
 
-Email: info@gagapay.com
+Email: info@gagapay.network
 
 Description: Gagapay network token
 
