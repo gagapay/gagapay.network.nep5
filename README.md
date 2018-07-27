@@ -3,7 +3,7 @@ Gagapay Network Nep-5 Token
 
 [Website: https://gagapay.network](https://gagapay.network)
 
-# Testnet smart contract hash
+# Smart contract hash
 ScriptHash:0x06f4b1235f6300477d56b9a1f1de5b0172dfe103
 
 # Transaction
@@ -27,5 +27,7 @@ Symbol: GTA
 Precision: 8
 
 Supply: 1,000,000,000
+
+Source code: GTAContract.cs
 
 
